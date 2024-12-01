@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Open Sans', sans-serif;
-    font-weight: bold;
+    font-weight: bolder;
     background: white;
     overflow: hidden;
     marginbottom: 30px
@@ -31,7 +31,7 @@ h2 {
     font-size: 14pt;
     font-style: italic;
     font-family: sans-serif;
-    font-weight: bold;
+    font-weight: bolder;
     margin-bottom: 20px;
     color: #BBB;
 }
@@ -120,7 +120,7 @@ p {
     font-size: 13pt;
     color: #888;
     line-height: 1.7em;
-    font-weight: bold;
+    font-weight: bolder;
 }
 
 a {
@@ -154,7 +154,7 @@ a:hover {
 
 strong {
     color: black;
-    font-weight: bold;
+    font-weight: bolder;
 }
 
 img {
@@ -210,7 +210,7 @@ img {
 */
 .end {
     text-align: center;
-    font-weight: bold;
+    font-weight: bolder;
     color: black;
     padding-top: 20px;
     padding-bottom: 20px;
