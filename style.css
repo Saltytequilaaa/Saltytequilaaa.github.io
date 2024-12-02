@@ -3,7 +3,7 @@
 body {
     font-family: 'Open Sans', sans-serif;
     font-weight: bolder;
-    background: #dbdfff;
+    background: white;
     overflow: hidden;
     marginbottom: 50px
 }
@@ -60,7 +60,7 @@ h2 {
     position: fixed;
     display: block;
     width: 100%;
-    background: #dbdfff;
+    background: white;
     margin: 0;
     padding-top: 6px;
     padding-bottom: 6px;
@@ -110,7 +110,7 @@ h2 {
     padding: 20px;
     padding-top: 4em;
     padding-bottom: 40px;
-    background: #dbdfff;
+    background: white;
 }
 
 @media screen and (prefers-reduced-motion: no-preference) {
@@ -228,7 +228,7 @@ img {
     right: 14px;
     top: 4px;
     user-select: none;
-    background: #dbdfff;
+    background: white;
 }
 
 @media screen and (prefers-reduced-motion: no-preference) {
