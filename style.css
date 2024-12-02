@@ -3,7 +3,7 @@
 body {
     font-family: 'Open Sans', sans-serif;
     font-weight: bolder;
-    background: #c6d8fa;
+    background: #dbdfff;
     overflow: hidden;
     marginbottom: 50px
 }
@@ -26,7 +26,7 @@ h1 {
     font-size: 24pt;
     font-style: italic;
     margin-bottom: 20px;
-    color: #0b60fd;
+    color: #000000
 }
 
 h2 {
@@ -60,7 +60,7 @@ h2 {
     position: fixed;
     display: block;
     width: 100%;
-    background: #c6d8fa;
+    background: #dbdfff;
     margin: 0;
     padding-top: 6px;
     padding-bottom: 6px;
@@ -110,7 +110,7 @@ h2 {
     padding: 20px;
     padding-top: 4em;
     padding-bottom: 40px;
-    background: #c6d8fa;
+    background: #dbdfff;
 }
 
 @media screen and (prefers-reduced-motion: no-preference) {
@@ -228,7 +228,7 @@ img {
     right: 14px;
     top: 4px;
     user-select: none;
-    background: white;
+    background: #dbdfff;
 }
 
 @media screen and (prefers-reduced-motion: no-preference) {
