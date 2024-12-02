@@ -3,7 +3,7 @@
 body {
     font-family: 'Open Sans', sans-serif;
     font-weight: bolder;
-    background: white;
+    background: #c6d8fa;
     overflow: hidden;
     marginbottom: 50px
 }
@@ -24,7 +24,9 @@ h2 {
 
 h1 {
     font-size: 24pt;
+    font-style: italic;
     margin-bottom: 20px;
+    color: #0b60fd;
 }
 
 h2 {
@@ -58,7 +60,7 @@ h2 {
     position: fixed;
     display: block;
     width: 100%;
-    background: white;
+    background: #c6d8fa;
     margin: 0;
     padding-top: 6px;
     padding-bottom: 6px;
@@ -108,7 +110,7 @@ h2 {
     padding: 20px;
     padding-top: 4em;
     padding-bottom: 40px;
-    background: white;
+    background: #c6d8fa;
 }
 
 @media screen and (prefers-reduced-motion: no-preference) {
