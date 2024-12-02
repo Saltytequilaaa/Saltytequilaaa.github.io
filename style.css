@@ -5,7 +5,7 @@ body {
     font-weight: bolder;
     background: white;
     overflow: hidden;
-    marginbottom: 50px
+    margin-bottom: 50px
 }
 
 @media screen and (prefers-reduced-motion: no-preference) {
@@ -26,7 +26,6 @@ h1 {
     font-size: 28pt;
     font-style: italic;
     margin-bottom: 20px;
-    color: #000000
 }
 
 h2 {
@@ -34,7 +33,7 @@ h2 {
     font-style: italic;
     font-family: sans-serif;
     font-weight: normal;
-    margin-bottom: 60px;
+    margin-bottom: 50px;
     color: #929292;
 }
 
@@ -106,7 +105,7 @@ h2 {
     display: block;
     max-width: 600px;
     margin: 0 auto;
-    margin-bottom: 40px;
+    margin-bottom: 50px;
     padding: 20px;
     padding-top: 4em;
     padding-bottom: 40px;
@@ -197,7 +196,7 @@ img {
   Class applied to first choice
 */
 :not(.choice)+.choice {
-    padding-top: 1em;
+    padding-top: 3em;
 }
 
 /*
@@ -262,10 +261,6 @@ img {
 
 body.dark {
     background: black;
-    color: white;
-}
-
-.dark h1 {
     color: white;
 }
 
